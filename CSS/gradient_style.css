@@ -1,0 +1,23 @@
+.div{
+        border: 1px solid black;
+        height: 100px;
+        width: 200px;
+        background-image: linear-gradient(red,blue);
+        background-image: linear-gradient(to bottom red,blue);
+        background-image: linear-gradient(to right red,blue);
+        background-image: linear-gradient(to top red,blue, yellow);
+
+
+}
+
+.divmax{
+    margin:5px;
+    border:1px solid black;
+    height: 100px;
+    width: 200px;
+    background-image: radial-gradient(red,yellow);
+    background-image: radial-gradient(red,yellow,pink);
+    background-image: radial-gradient(red,yellow, blue);
+
+    
+}
