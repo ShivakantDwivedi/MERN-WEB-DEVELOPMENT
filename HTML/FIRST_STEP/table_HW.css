@@ -1,0 +1,30 @@
+
+
+tr, td ,th{
+    border: 1px solid black;
+}
+
+
+
+
+
+.table{
+    border-collapse:collapse ;
+    text-align: center;
+}
+
+
+.yellow{
+    background-color: yellow;
+    
+}
+
+
+.green{
+    background-color: orange;
+
+}
+
+.blue{
+    background-color: pink;
+}
